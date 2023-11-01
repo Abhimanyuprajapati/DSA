@@ -1,2 +1,2 @@
 # DSA
-All problems are solved in three programming language
+All problems are solved in two programming language
